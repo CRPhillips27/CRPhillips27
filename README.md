@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CRPhillips27
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Development and working in a team environment
 - 📫 How to reach me crphillips@up.edu.ph/ +63 998 913 6854
 
 <!---
